@@ -63,5 +63,18 @@
      height: 8vh;
      background-color: aqua;
      border-radius: 2vh;
+     font-size: 1.1rem;
      /* text-align: center; */
+}
+
+.heading{
+   
+    background-color: black;
+    color: white;
+    line-height:10vh ;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
 }
